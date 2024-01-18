@@ -2,6 +2,7 @@
 
 ## Introduction
 
+A Selenium script, written in Python, that automatically blocks bots (users ending with 5 or more digits) in your Twitter's notification timeline.  
 This script was created as a simple exercise to learn Selenium automation. It's designed to interact with Twitter's website and perform certain actions automatically.
 
 **Please note:** This script should not be used by anyone as it may violate Twitter's rules. It's intended purely for educational purposes.
