@@ -12,8 +12,6 @@ This script was created as a simple exercise to learn Selenium automation. It's 
 To run this script, you need:
 
 - Python 3.6 or higher
-- Selenium
-- ChromeDriver
 
 ## Installation
 
@@ -26,6 +24,8 @@ To run this script, you need:
 
 1. Navigate to the directory containing the script.
 2. Run the script using the command `python make_my_feed_great_again.py`.
+
+You can run it manually or add it to your crontab / scheduled operations so that it is fully automated.
 
 The script provides three ways to enter your Twitter credentials:
 
